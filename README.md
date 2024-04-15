@@ -4,8 +4,8 @@
 A Python tool to dump hex data from a Mega Everdrive X7's USB port into a file.
 
 ### Requirements
-[PySerial](https://pypi.org/project/pyserial/)
-[Python keyboard library](https://pypi.org/project/keyboard/)
+- [PySerial](https://pypi.org/project/pyserial/)
+- [Python keyboard library](https://pypi.org/project/keyboard/)
 
 ### Usage
 
